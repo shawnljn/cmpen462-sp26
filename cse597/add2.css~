@@ -1,0 +1,174 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body 
+{
+background: #333;
+font-size: 11px;
+font: 76% Verdana, sans-serif;
+line-height: 20px;
+color: black;
+}
+
+a {
+text-decoration: none;
+color: #554dff;
+}
+a:hover {
+text-decoration: none;
+color: #ff4d42;
+}
+
+
+#wrap {
+margin: 40px auto 40px auto;
+width: 1000px;
+height:1500px;
+background: #fff;
+padding: 20px;
+border: 0px solid #000;
+}
+
+#wrap-schedule {
+margin: 40px auto 40px auto;
+width: 1000px;
+height:2200px;
+background: #fff;
+padding: 20px;
+border: 0px solid #000;
+}
+
+.header {
+height: 425px;
+}
+
+.course-title{
+padding-left:160px;
+padding-top:30px;
+font-size: 22px;
+letter-spacing: -1px;
+}
+
+.course-img{
+margin-top:30px;
+width:100%;
+ }
+
+.menu{
+      margin-top:0px;
+      font-size:17px;
+ }
+ 
+  .menu1{
+  float:left;
+  }
+
+  .menu2{
+  margin-left:230px; 
+  }
+  
+ .menu-cur{
+           padding-top:5px;
+           border-radius: 5px;
+           background:#333;
+           height:30px;
+           width:210px;
+           float:left;
+  }
+  
+    .menu-non{
+           padding-top:5px;
+           border-radius: 5px;
+           background:#888;
+           height:30px;
+           width:210px;
+           
+  }
+  
+  
+div.menu-cur a{text-decoration: none;}
+div.menu-cur a:link{color: #fff;}
+div.menu-cur a:hover{color: #fff;text-decoration: none;}
+div.menu-cur a:visited{color: #fff;}
+div.menu-cur a:active{color: #fff;}
+
+div.menu-non a{text-decoration: none;}
+div.menu-non a:link{color: #fff;}
+div.menu-non a:hover{color: #fff;text-decoration: none;}
+div.menu-non a:visited{color: #fff;}
+div.menu-non a:active{color: #fff;}
+
+.sep{
+     width: 100%;
+     height: 1px;
+     background: #aaa;
+ }
+
+#content {
+padding: 30px 10px 0px 10px;
+}
+
+.vspace20{
+          height:20px;
+ }
+
+li {
+  	margin-bottom: 0.8em;
+  	margin-left: 1.5em;
+}
+
+.card-text{
+           margin-top:0px;
+           margin-left:0px;
+ }
+
+.section-title{
+font-size:20px;
+               margin-bottom:15px;
+             
+ }
+ 
+ .text-content{
+               font-size:14px;
+  }
+  
+  .lecture{
+           margin-left:10px;
+           margin-top:5px;
+   }
+  .lecture-title{ 
+  font-weight: bold; color: rgb(0, 0, 0);
+  font-size:12px;
+  }
+  .lecture-content{
+  font-size:12px;
+  color:#222;
+   }
+  
+  .lecture-sep{
+               height:10px;
+   }
+   
+   .topic-title{
+   margin-left:10px;
+   margin-top:5px;
+   font-weight:bold;
+   font-size:12px;
+    }
+    
+    
+    .text-note{
+               margin-bottom:10px;
+              color:#333;
+     }
+  
+  
+  
+  .lecture-slides{
+                  marign-top:10px;
+                  margin-bottom:10px;
+                  font-size:12px;
+   }

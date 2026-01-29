@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0052)https://www.cs.purdue.edu/homes/hw/courses/cs590msc/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="English">
+<title>CMPEN 462: Wireless Communication Systems and Security</title>
+
+<!-- <\!-- Favicons -\-> -->
+<!-- <link rel="shortcut icon" href="https://www.cs.purdue.edu/homes/hw/courses/cs590msc/assets/img/favicon.ico"> -->
+<!-- <link rel="apple-touch-icon" href="https://www.cs.purdue.edu/homes/hw/courses/cs590msc/assets/img/favicon_60x60.png"> -->
+<!-- <link rel="apple-touch-icon" sizes="76x76" href="https://www.cs.purdue.edu/homes/hw/courses/cs590msc/assets/img/favicon_76x76.png"> -->
+<!-- <link rel="apple-touch-icon" sizes="120x120" href="https://www.cs.purdue.edu/homes/hw/courses/cs590msc/assets/img/favicon_120x120.png"> -->
+<!-- <link rel="apple-touch-icon" sizes="152x152" href="https://www.cs.purdue.edu/homes/hw/courses/cs590msc/assets/img/favicon_152x152.png"> -->
+
+<link rel="stylesheet" href="./cse597/styles.css">
+
+<!-- <\!-- CSS Template -\-> -->
+<!-- <link rel="stylesheet" href="./CS 59000-MSC_ Mobile Sensing, Computing, &amp; Applications_files/theme.min.css"> -->
+<!-- <link rel="stylesheet" href="./CS 59000-MSC_ Mobile Sensing, Computing, &amp; Applications_files/blue-beige.css" id="color"> -->
+
+<!-- Styleswitcher -->
+<link rel="stylesheet" href="./cse597/styleswitcher.css">
+<link rel="stylesheet" href="./cse597/add2.css">
+
+</head>
+<body>
+
+<div id="wrap">
+
+<div class="header">
+<div class="course-title">CMPEN 462: Wireless Communication Systems and Security</div>
+<div class="course-img"><img src="./course_497.png?=76687" width="100%"></div>
+</div>
+
+<div class="menu">
+<div class="menu1"><div class="menu-cur"><center> <a href="index.html">General Information</a> </center></div></div>
+<div class="menu2"><div class="menu-non"><center> <a href="schedule.html">Course Schedule</a> </center></div></div>
+</div>
+
+<div id="content">
+	 <div class="card-text">
+	 	  <div class="section-title">Course Description:</div>
+		  <div class="text-content">
+		  Wireless networks cater to diverse applications including smartphone traffic, wearables, medical implants, virtual reality (VR), autonomous cars, drones, data centers etc. The explosion of IoT devices and applications has resulted in an exponentially increasing demand for wireless network data. This course introduces founding principles, architecture, protocols, and algorithms behind the next generation wireless networking systems designed to tackle the growing demand. Topics of discussion include: 
+<div class="vspace20"></div>
+<ul> 
+<li><b>Basics of linear algebra, probability, and signal processing</b></li>
+<li><b>Physical layer techniques - Synchronization, modulation, multipath, fading and wireless channel</b></li> 
+<li><b>Physical layer techniques - OFDM/MIMO/Beamforming - the role in efficiency of LTE/WiFi</b></li>
+<li><b>Coordination mechanisms and MAC protocols for multi-user network access
+</b></li>
+<li><b>Robotic wireless networks (robots and drones carrying access-points and wireless base-stations)</b></li>
+<li><b>Network routing (adhoc, mesh, and sensor networks)</b></li>
+<li><b>Transport protocols (TCP over wireless)</b></li>
+<li><b>mmWave networks and 5G</b></li>
+<li><b>Energy efficiency and battery free communication</b></li>
+<li><b>Sensing (Human gestures, imaging objects) and localization</b></li>
+<li><b>Security (physical channel as encryption key, radio fingerprinting, location spoofing etc)</b></li>
+</ul>
+
+Overall, the course would teach basic wireless networking and instill theoretical concepts necessary to critically analyze modern wireless systems such as LTE/WiFi/BLE/RFID/D2D/V2V. A mini-project would be designed to help develop hands-on skills in wireless system design.
+
+<br>
+<br>
+  
+The course syllabus is <a href="syllabus_cmpen462_sp22.pdf">here</a>. 
+ <br>
+		  </div>		  
+	 </div>
+	 <div class="vspace20"></div>
+	 <div class="sep">
+	 <div class="vspace20"></div>
+	 <div class="card-text">
+	   <div class="text-content">
+	      <strong>Prerequisites: </strong> Basic mathematical and programming maturity (any one of MATLAB, R, Python, or Java/C). CMPEN 362 Networking. Students without any networking background should be willing to read up on the sides.
+	   </div>
+
+           <div class="vspace20"></div>
+
+	   <div class="text-content">
+	      <strong>Grading: </strong> Homeworks (18%), Programming Assignments (27%), Mini-Project (25%), Final Exam (25%), Class Participation (5%)
+	   </div>
+	 </div>
+
+
+	 <div class="vspace20"></div>
+	 <div class="sep">
+	 <div class="vspace20"></div>
+
+
+	   <div class="text-content">
+	      <strong>Time and location: </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday and Thursday 10:35 to 11:50am, Willard Bldg 062
+           </div>
+	   <div class="vspace20"></div>
+
+	   <div class="text-content">
+	      <strong>Office hours: </strong>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday and Thursday - 12:10 to 1:10pm, W314, Westgate building
+           </div>
+   	   <div class="vspace20"></div>
+
+	   <div class="text-content">
+	      <strong>Instructor: </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.cse.psu.edu/~mkg31">Mahanth Gowda</a> (mahanth.gowda@psu.edu)
+           </div>
+   	   <div class="vspace20"></div>
+
+
+	   <div class="text-content">
+	      <strong>Teaching Assistants: </strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.psu.edu/yzl470">Yilin Liu</a> (yzl470@psu.edu), <a href="https://hzhou3.github.io/">Hao Zhou</a> (hfz5190@psu.edu)
+           </div>
+   	   <div class="vspace20"></div>
+
+
+	   <div class="text-content">
+	      <strong>TA Office Hours: </strong>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yilin Liu (Tue 6:20 - 7:20pm and Thu 3:20 - 4:20pm), Hao Zhou (Tue and Fri 4-5pm), 300 West College Ave
+           </div>
+   	   <div class="vspace20"></div>
+
+	   <div class="text-content">
+	     <strong>Reference books: </strong>
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) <a href="https://disc.georgetown.domains/vaidya-wireless-classnotes.pdf"> Wireless Networks</a>, Nitin Vaidya (UIUC) <br>
+	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) Introduction to Linear Algebra, Gilbert Strang (MIT) <br>
+	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	        (3) Communication Systems Engineering, Proakis (UCSD) <br>
+	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	       (4) Understanding Digital Signal Processing, Richard Lyons (UCSC) <br>
+  		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (5) Mathematical Foundations of Computer Networking, Srinivasan Keshav (University of Waterloo) <br>
+       		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (6) A Top Down Approach to Computer Networking, James Kurose (UMass) <br>
+		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+           </div>
+   	   <div class="vspace20"></div>
+
+   	   <div class="sep"></div>
+	 </div>
+
+	 
+	 
+	 
+	 
+	 
+</div>
+
+
+
+	 </div></div></div></div></div>
+
+	 
+
+
+
+</body></html>

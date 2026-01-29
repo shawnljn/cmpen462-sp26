@@ -1,0 +1,1 @@
+rsync --progress ../course_website/ -avz -e ssh mkg31@ladon.cse.psu.edu:~/www/teaching/cse_ee597
